@@ -1,0 +1,4 @@
+# Ignore the top-level node_modules directory
+node_modules/
+# Ignore all nested node_modules directories
+*/node_modules/
